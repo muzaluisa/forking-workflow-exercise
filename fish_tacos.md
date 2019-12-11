@@ -7,7 +7,7 @@ This recipe is taken from https://www.finecooking.com/recipe/yucatecan-grilled-f
 
 ## Ingredients
 - 1 cup fresh orange juice (4 medium oranges)
-- 1/4 cup fresh lime juice (2 medium limes)
+- 1/2 cup fresh lime juice (4 medium limes)
 - 1 small red onion, quartered lengthwise and very thinly sliced crosswise (about 1 cup)
 - 1/2 habanero chile, seeded and minced (about 1-1/2 tsp.)
 - 1-1/2 tsp. dried Mexican oregano
